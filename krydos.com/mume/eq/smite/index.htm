@@ -1,0 +1,154 @@
+
+<style>
+.tableheader {
+  border-bottom: thin solid black
+}
+.sortlink {
+  cursor:pointer;
+  color:blue;
+  text-decoration:underline;
+}
+.numbercolumn {
+  text-align: right;
+}
+</style>
+
+<style>
+.dropbtn {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  min-width: 95px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 95px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #dddddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #dddddd;}
+</style>
+
+<div class="dropdown">
+  <a href="..\..\index.htm">
+  <button class="dropbtn">home</button>
+  </a>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">equipment</button>
+  <div class="dropdown-content">
+    <a href="..\head\index.htm">head</a>
+    <a href="..\neck\index.htm">neck</a>
+    <a href="..\body\index.htm">body</a>
+    <a href="..\back\index.htm">back</a>
+    <a href="..\arms\index.htm">arms</a>
+    <a href="..\hands\index.htm">hands</a>
+    <a href="..\legs\index.htm">legs</a>
+    <a href="..\feet\index.htm">feet</a>
+    <a href="..\belt\index.htm">belt</a>
+  </div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">weapons</button>
+  <div class="dropdown-content">
+    <a href="index.htm">smite</a>
+    <a href="..\slash\index.htm">slash</a>
+    <a href="..\cleave\index.htm">cleave</a>
+    <a href="..\crush\index.htm">crush</a>
+    <a href="..\pierce\index.htm">pierce</a>
+    <a href="..\stab\index.htm">stab</a>
+    <a href="..\charge\index.htm">charge</a>
+    <a href="..\whip\index.htm">whip</a>
+  </div>
+</div>
+<div class="dropdown">
+  <a href="..\..\contact\index.htm">
+  <button class="dropbtn">contact</button>
+  </a>
+</div>
+
+<br>SMITE WEAPONS:
+<br><br>
+<table id='eqtable'><tr>
+<td class='tableheader'><span class='sortlink' id='a0' onclick='sortTable(0,1,0)'>object</span></td>
+<td class='tableheader'><span class='sortlink' id='a1' onclick='sortTable(1,1,1)'>weight</span></td>
+<td class='tableheader'><span class='sortlink' id='a2' onclick='sortTable(2,1,1)'>strength</span></td>
+<td class='tableheader'><span class='sortlink' id='a3' onclick='sortTable(3,0,1)'>ob</span></td>
+<td class='tableheader'><span class='sortlink' id='a4' onclick='sortTable(4,0,1)'>pb</span></td>
+<td class='tableheader'><span class='sortlink' id='a5' onclick='sortTable(5,0,1)'>damage</span></td>
+<td class='tableheader'><span class='sortlink' id='a6' onclick='sortTable(6,1,1)'>speed</span></td>
+<td class='tableheader'><span class='sortlink' id='a7' onclick='sortTable(7,0,1)'>dps</span></td>
+<td class='tableheader'><span class='sortlink' id='a8' onclick='sortTable(8,1,1)'>info</span></td>
+</tr>
+
+<tr><td>great black scimitar</td><td class='numbercolumn'>3.94</td><td class='numbercolumn'>7.70</td><td class='numbercolumn'>20</td><td class='numbercolumn'>0</td><td class='numbercolumn'>14.7</td><td class='numbercolumn'>110</td><td class='numbercolumn'>13.36</td><td>Magic, Anti-good, Eff vs elf/spell</td></tr><tr><td><a href="..\..\item\the Axe of Durin\index.htm">the Axe of Durin</a></td><td class='numbercolumn'>5.94</td><td class='numbercolumn'>11.61</td><td class='numbercolumn'>20</td><td class='numbercolumn'>0</td><td class='numbercolumn'>19.4</td><td class='numbercolumn'>150</td><td class='numbercolumn'>12.93</td><td>Magic, Nosell, Eff vs spell</td></tr><tr><td><a href="..\..\item\the huge flaming sword\index.htm">the huge flaming sword</a></td><td class='numbercolumn'>12.38</td><td class='numbercolumn'>24.20</td><td class='numbercolumn'>25</td><td class='numbercolumn'>-10</td><td class='numbercolumn'>18.4</td><td class='numbercolumn'>150</td><td class='numbercolumn'>12.27</td><td>Magic, Evil, Anti-good, Anti-neutral, Nosell, Eff vs cold/spell</td></tr><tr><td><a href="..\..\item\a great warsword\index.htm">a great warsword</a></td><td class='numbercolumn'>8.94</td><td class='numbercolumn'>17.48</td><td class='numbercolumn'>20</td><td class='numbercolumn'>0</td><td class='numbercolumn'>18.4</td><td class='numbercolumn'>150</td><td class='numbercolumn'>12.27</td><td>Magic, Eff vs spell</td></tr><tr><td><a href="..\..\item\a steel claymore\index.htm">a steel claymore</a></td><td class='numbercolumn'>5.94</td><td class='numbercolumn'>11.61</td><td class='numbercolumn'>20</td><td class='numbercolumn'>0</td><td class='numbercolumn'>13.3</td><td class='numbercolumn'>110</td><td class='numbercolumn'>12.09</td><td>Magic, Eff vs spell</td></tr><tr><td><a href="..\..\item\a black runed sceptre\index.htm">a black runed sceptre</a></td><td class='numbercolumn'>4.44</td><td class='numbercolumn'>8.68</td><td class='numbercolumn'>10</td><td class='numbercolumn'>25</td><td class='numbercolumn'>12.5</td><td class='numbercolumn'>110</td><td class='numbercolumn'>11.36</td><td>Magic, Eff vs metal/spell, Focus, Nosell, Mana regen +5, +Spell defense</td></tr><tr><td><a href="..\..\item\a war mattock\index.htm">a war mattock</a></td><td class='numbercolumn'>8.94</td><td class='numbercolumn'>17.48</td><td class='numbercolumn'>20</td><td class='numbercolumn'>-10</td><td class='numbercolumn'>17.0</td><td class='numbercolumn'>150</td><td class='numbercolumn'>11.33</td><td>Magic, Eff vs metal/spell</td></tr><tr><td><a href="..\..\item\a two-handed sword\index.htm">a two-handed sword</a></td><td class='numbercolumn'>7.94</td><td class='numbercolumn'>15.52</td><td class='numbercolumn'>20</td><td class='numbercolumn'>-5</td><td class='numbercolumn'>14.5</td><td class='numbercolumn'>130</td><td class='numbercolumn'>11.15</td><td></td></tr><tr><td><a href="..\..\item\a halberd\index.htm">a halberd</a></td><td class='numbercolumn'>7.94</td><td class='numbercolumn'>15.52</td><td class='numbercolumn'>15</td><td class='numbercolumn'>5</td><td class='numbercolumn'>14.5</td><td class='numbercolumn'>130</td><td class='numbercolumn'>11.15</td><td>Eff vs riding</td></tr><tr><td><a href="..\..\item\a burnished hewing-spear\index.htm">a burnished hewing-spear</a></td><td class='numbercolumn'>8.81</td><td class='numbercolumn'>17.23</td><td class='numbercolumn'>20</td><td class='numbercolumn'>0</td><td class='numbercolumn'>15.0</td><td class='numbercolumn'>135</td><td class='numbercolumn'>11.11</td><td>Magic, Eff vs spell/riding/spirit</td></tr><tr><td><a href="..\..\item\a heavy warhammer\index.htm">a heavy warhammer</a></td><td class='numbercolumn'>8.94</td><td class='numbercolumn'>17.48</td><td class='numbercolumn'>15</td><td class='numbercolumn'>-10</td><td class='numbercolumn'>15.0</td><td class='numbercolumn'>135</td><td class='numbercolumn'>11.11</td><td>Eff vs metal</td></tr><tr><td><a href="..\..\item\a two-handed axe\index.htm">a two-handed axe</a></td><td class='numbercolumn'>8.94</td><td class='numbercolumn'>17.48</td><td class='numbercolumn'>15</td><td class='numbercolumn'>-10</td><td class='numbercolumn'>16.3</td><td class='numbercolumn'>150</td><td class='numbercolumn'>10.87</td><td></td></tr><tr><td><a href="..\..\item\a steel-shafted mattock\index.htm">a steel-shafted mattock</a></td><td class='numbercolumn'>5.94</td><td class='numbercolumn'>11.61</td><td class='numbercolumn'>20</td><td class='numbercolumn'>-10</td><td class='numbercolumn'>13.0</td><td class='numbercolumn'>120</td><td class='numbercolumn'>10.83</td><td>Magic, Eff vs metal/spell</td></tr><tr><td><a href="..\..\item\a bastard sword\index.htm">a bastard sword</a></td><td class='numbercolumn'>5.63</td><td class='numbercolumn'>11.00</td><td class='numbercolumn'>20</td><td class='numbercolumn'>0</td><td class='numbercolumn'>13.2</td><td class='numbercolumn'>125</td><td class='numbercolumn'>10.56</td><td></td></tr><tr><td><a href="..\..\item\a poleaxe\index.htm">a poleaxe</a></td><td class='numbercolumn'>8.94</td><td class='numbercolumn'>17.48</td><td class='numbercolumn'>15</td><td class='numbercolumn'>0</td><td class='numbercolumn'>15.3</td><td class='numbercolumn'>150</td><td class='numbercolumn'>10.20</td><td></td></tr><tr><td><a href="..\..\item\a very large wooden club\index.htm">a very large wooden club</a></td><td class='numbercolumn'>10.94</td><td class='numbercolumn'>21.39</td><td class='numbercolumn'>15</td><td class='numbercolumn'>-15</td><td class='numbercolumn'>15.0</td><td class='numbercolumn'>150</td><td class='numbercolumn'>10.00</td><td>Eff vs metal/spirit</td></tr><tr><td><a href="..\..\item\a very large knotted tree-branch\index.htm">a very large knotted tree-branch</a></td><td class='numbercolumn'>11.88</td><td class='numbercolumn'>23.22</td><td class='numbercolumn'>10</td><td class='numbercolumn'>-10</td><td class='numbercolumn'>14.0</td><td class='numbercolumn'>150</td><td class='numbercolumn'>9.33</td><td>Eff vs metal/spirit</td></tr><tr><td><a href="..\..\item\a flail\index.htm">a flail</a></td><td class='numbercolumn'>7.94</td><td class='numbercolumn'>15.52</td><td class='numbercolumn'>15</td><td class='numbercolumn'>5</td><td class='numbercolumn'>13.0</td><td class='numbercolumn'>150</td><td class='numbercolumn'>8.67</td><td>Eff vs metal</td></tr><tr><td><a href="..\..\item\a quarterstaff\index.htm">a quarterstaff</a></td><td class='numbercolumn'>5.94</td><td class='numbercolumn'>11.61</td><td class='numbercolumn'>10</td><td class='numbercolumn'>10</td><td class='numbercolumn'>6.0</td><td class='numbercolumn'>100</td><td class='numbercolumn'>6.00</td><td>Eff vs spirit/metal</td></tr><tr><td><a href="..\..\item\a shovel\index.htm">a shovel</a></td><td class='numbercolumn'>4.94</td><td class='numbercolumn'>9.66</td><td class='numbercolumn'>15</td><td class='numbercolumn'>-10</td><td class='numbercolumn'>8.0</td><td class='numbercolumn'>150</td><td class='numbercolumn'>5.33</td><td>Eff vs metal</td></tr><tr><td><a href="..\..\item\a black metal staff\index.htm">a black metal staff</a></td><td class='numbercolumn'>4.88</td><td class='numbercolumn'>9.53</td><td class='numbercolumn'>10</td><td class='numbercolumn'>25</td><td class='numbercolumn'>5.0</td><td class='numbercolumn'>100</td><td class='numbercolumn'>5.00</td><td>Magic, Eff vs spell</td></tr><tr><td><a href="..\..\item\a carved oak staff\index.htm">a carved oak staff</a></td><td class='numbercolumn'>11.00</td><td class='numbercolumn'>7.00</td><td class='numbercolumn'>5</td><td class='numbercolumn'>10</td><td class='numbercolumn'>7.0</td><td class='numbercolumn'>150</td><td class='numbercolumn'>4.67</td><td>Magic, Nosell, Eff vs spirit</td></tr><tr><td><a href="..\..\item\a rough staff\index.htm">a rough staff</a></td><td class='numbercolumn'>11.00</td><td class='numbercolumn'>7.00</td><td class='numbercolumn'>5</td><td class='numbercolumn'>10</td><td class='numbercolumn'>7.0</td><td class='numbercolumn'>150</td><td class='numbercolumn'>4.67</td><td>Eff vs spirit</td></tr>
+</table>
+
+<script>
+function sortTable(column, dir, numerical) {
+  var table, rows, switching, i, x, y, left, right, shouldSwitch;
+  table = document.getElementById("eqtable");
+  switching = true;
+  if (dir == 1) {
+    document.getElementById("a"+column).setAttribute("onclick", "sortTable("+column+",0,"+numerical+")");
+  } else {
+    document.getElementById("a"+column).setAttribute("onclick", "sortTable("+column+",1,"+numerical+")");
+  }
+  while (switching) {
+    switching = false;
+    rows = table.getElementsByTagName("TR");
+    for (i = 1; i < (rows.length - 1); i++) {
+      shouldSwitch = false;
+      x = rows[i].getElementsByTagName("TD")[column];
+      y = rows[i + 1].getElementsByTagName("TD")[column];
+      if (numerical == 1) {
+        left = parseFloat(x.innerHTML.toLowerCase());
+        if (x.innerHTML == "") left = "0";
+        right = parseFloat(y.innerHTML.toLowerCase());
+        if (y.innerHTML == "") right = "0";
+      } else {
+        left = x.innerHTML.toLowerCase();
+        right = y.innerHTML.toLowerCase();
+      }
+      if (dir == 1) {
+        if (left > right) {
+          shouldSwitch= true;
+          break;
+        }
+      } else {
+        if (left < right) {
+          shouldSwitch= true;
+          break;
+        }
+      }
+    }
+    if (shouldSwitch) {
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+    }
+  }
+}
+</script>
+

@@ -1,0 +1,3360 @@
+Uri: https://krydos.com/mume/
+File Name: c:\Temp\WebCopy\krydos.com\mume\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/head/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\head\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/neck/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\neck\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/body/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\body\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/back/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\back\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/arms/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\arms\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/hands/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\hands\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/legs/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\legs\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/feet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\feet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/belt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\belt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/smite/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\smite\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/slash/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\slash\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/cleave/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\cleave\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/crush/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\crush\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/pierce/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\pierce\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/stab/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\stab\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/charge/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\charge\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/eq/whip/
+File Name: c:\Temp\WebCopy\krydos.com\mume\eq\whip\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/contact/
+File Name: c:\Temp\WebCopy\krydos.com\mume\contact\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bejewelled+oak+staff/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bejewelled oak staff\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+ancient,+jewelled+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an ancient, jewelled helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+slender+barbed+arrow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a slender barbed arrow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+twisted+crown/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a twisted crown\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+reinforced+leather+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy reinforced leather helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+soft+leather+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of soft leather sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+metal+gauntlets/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of metal gauntlets\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+metal+gauntlets/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of metal gauntlets\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+metal+vambraces/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of metal vambraces\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bracelet+with+rainbow-coloured+gems/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bracelet with rainbow-coloured gems\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bracelet+with+cerise+gems/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bracelet with cerise gems\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ring+with+a+translucent+blue+gem/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ring with a translucent blue gem\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+gem-inlaid+knife/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a gem-inlaid knife\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+slender+dagger/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a slender dagger\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ring+with+a+pale+blue+crystal/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ring with a pale blue crystal\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ring+with+a+deep+green+gem/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ring with a deep green gem\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ring+with+a+chatoyant+gem/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ring with a chatoyant gem\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ring+with+a+cerise+gem/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ring with a cerise gem\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+pair+of+metal+vambraces/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black pair of metal vambraces\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+crimson+pair+of+metal+gauntlets/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a crimson pair of metal gauntlets\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+metal+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black metal breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+crimson+pair+of+metal+greaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a crimson pair of metal greaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+crimson+metal+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a crimson metal breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+palantir+of+Amon+Sul/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the palantir of Amon Sul\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+strange+black+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a strange black helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+glass+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a glass key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+metal+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a metal key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+libram/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a libram\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver+rod,+marked+with+glyphs/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver rod, marked with glyphs\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+stone+club/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a stone club\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+runic+book/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a runic book\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+head+of+a+large+warg/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the head of a large warg\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+Elven+shortsword+with+a+runic+inscription/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the Elven shortsword with a runic inscription\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+gleaming+broadsword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the gleaming broadsword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver+morion/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver morion\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+horse-crested+helm/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a horse-crested helm\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+winged+metal+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a winged metal helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+burnished+hewing-spear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a burnished hewing-spear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+black+many-tailed+whip/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the black many-tailed whip\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+huge+flaming+sword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the huge flaming sword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+huge,+black+mace/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the huge, black mace\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+Axe+of+Durin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the Axe of Durin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sapphire+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sapphire ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+scorched,+grisly+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a scorched, grisly fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dark,+silvery+stone/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dark, silvery stone\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+citrine/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a citrine\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+golden+emerald+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a golden emerald ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+herbal/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a herbal\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+candle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black candle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+diamond+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a diamond ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+ivory+scroll/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an ivory scroll\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+scroll/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black scroll\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+smelly+piece+of+worm+hide/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a smelly piece of worm hide\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+white+chain+mail+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of white chain mail gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+runed+sceptre/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black runed sceptre\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+ornate,+steel-shafted+warhammer/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an ornate, steel-shafted warhammer\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+metal+wristband/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black metal wristband\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+fine+silvery+morningstar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the fine silvery morningstar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soot-black+bear+hide/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soot-black bear hide\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shining+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shining breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+Dragonhelm/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the Dragonhelm\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+delicious+bannock/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a delicious bannock\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+ball+of+dough/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small ball of dough\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+mashed+honey-wax+mixture/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a mashed honey-wax mixture\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+leaf-cake/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a leaf-cake\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+heart/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black heart\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+short,+moist+tail/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a short, moist tail\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pungent+brew/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pungent brew\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tarnished+arrowhead/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tarnished arrowhead\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+short,+black+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some short, black fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+mottled+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a mottled cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+enhanced+herbal+kit/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an enhanced herbal kit\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+purple+scroll/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a purple scroll\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+narrow+grey+boat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a narrow grey boat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+scalp+of+Smiles/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the scalp of Smiles\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+elven+longbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an elven longbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silvan+satchel/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silvan satchel\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soft+pair+of+padded+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soft pair of padded boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+spiked+horsehide+buckler/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a spiked horsehide buckler\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large,+shimmering+pearl/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large, shimmering pearl\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+golden+garnet+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a golden garnet ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+golden+topaz+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a golden topaz ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+belt+of+fell+hide/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a belt of fell hide\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+ancient+metal+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an ancient metal helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wightblade/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wightblade\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fell+blade/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fell blade\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+skull+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a skull key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+archaic+copper+wristband/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an archaic copper wristband\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+imposing,+golden+mantle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an imposing, golden mantle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+visored+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large visored helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silvery+crown/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silvery crown\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+blackened+dwarven+axe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a blackened dwarven axe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+elven+bag/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small elven bag\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shimmering+leaf+of+metal/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shimmering leaf of metal\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+knee-high+hunting+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of knee-high hunting boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dented,+dull+leaf+of+metal/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dented, dull leaf of metal\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+elven+letter/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an elven letter\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+Dunadan+blade/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a Dunadan blade\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shop+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shop key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+castle+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a castle key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+rusty+medallion/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a rusty medallion\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+black+sword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the black sword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+herbal+draught/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a herbal draught\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+infusion/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an infusion\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+phosphorescent+bottle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a phosphorescent bottle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dark+violet+vial/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dark violet vial\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+elven+dagger/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an elven dagger\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+great+warsword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a great warsword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bound+sheaf+of+papers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bound sheaf of papers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+metal+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black metal shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+ancient+dwarven+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an ancient dwarven shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+engraved+broadsword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an engraved broadsword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+grey+tunic/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a grey tunic\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pry-bar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pry-bar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+perfect+oak+branch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a perfect oak branch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+yellow+apple/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large yellow apple\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+circlet+of+golden+flowers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a circlet of golden flowers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+few+golden,+star-like+blooms/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a few golden, star-like blooms\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+few+flowers+of+snow-white+and+palest+green/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a few flowers of snow-white and palest green\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+silvery+moss/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some silvery moss\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+loaf+of+white+bread/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a loaf of white bread\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dark+broadsword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dark broadsword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+jade-encrusted+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a jade-encrusted key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+blackened+pendant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a blackened pendant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silvery+elven+bracelet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silvery elven bracelet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tiny+stone+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tiny stone key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+glittering+spearhead/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a glittering spearhead\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+crumpled+scroll/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a crumpled scroll\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+and+silver+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black and silver key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+rusted+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a rusted key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+rabbit+fur+shoes/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of rabbit fur shoes\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+metal+file/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a metal file\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shepherd's+crook/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shepherd's crook\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+inscribed+wooden+box/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an inscribed wooden box\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+brown+leather+scroll/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a brown leather scroll\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sun-emblazoned+cloakpin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sun-emblazoned cloakpin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+porcelain+vase/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a porcelain vase\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+worn+clay+bowl/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a worn clay bowl\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+smelly+bladder/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a smelly bladder\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+topaz/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a topaz\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+scrap+of+silver/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a scrap of silver\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver+crown/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver crown\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+chunk+of+honey-coloured+amber/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a chunk of honey-coloured amber\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+brilliant+adamant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a brilliant adamant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+piece+of+silvery+metal/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a piece of silvery metal\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+bracelet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain bracelet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bracelet+with+fiery+red+gems/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bracelet with fiery red gems\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bracelet+with+deep+green+gems/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bracelet with deep green gems\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bracelet+with+clear,+sparkling+gems/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bracelet with clear, sparkling gems\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+pendant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain pendant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+belt+of+pearls+and+crystals/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a belt of pearls and crystals\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+misty+plant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a misty plant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+blackened+spear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a blackened spear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+crossbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a crossbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+blackened+bolt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a blackened bolt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+brown+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a brown fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+warg+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black warg fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tower+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tower shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+pair+of+riding+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain pair of riding boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+fluid-sack/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small fluid-sack\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dirty+note/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dirty note\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+iron+ore+fragment/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an iron ore fragment\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+leather+pouch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a leather pouch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tawny+bear+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tawny bear fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+meat+pasty/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a meat pasty\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bowl+of+stew/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bowl of stew\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plate+of+roast+mutton/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plate of roast mutton\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bowl+of+gruel/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bowl of gruel\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pork-pie/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pork-pie\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+hunting+horn/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a hunting horn\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+weapon+harness/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy weapon harness\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+rickety+wooden+chest/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a rickety wooden chest\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+piece+of+raw+venison/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large piece of raw venison\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tincture/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tincture\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bulbous+root/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bulbous root\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tall,+grey-green+plant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tall, grey-green plant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+orange+bracket+fungus/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an orange bracket fungus\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+broad+girdle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a broad girdle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sombre+runic+book/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sombre runic book\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+Beorning+sword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a Beorning sword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+ornate+scabbard/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an ornate scabbard\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+warm+pair+of+wool+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a warm pair of wool gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+flask+of+orkish+draught/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a flask of orkish draught\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+blue+scroll/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a blue scroll\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+vellum+scroll/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a vellum scroll\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+twisted+rock+fragment/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a twisted rock fragment\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+icy+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an icy ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+finely+woven+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a finely woven cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shining+pair+of+greaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shining pair of greaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shining+pair+of+vambraces/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shining pair of vambraces\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wide+silvery+wristband/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wide silvery wristband\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+silken+sash/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain silken sash\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soft,+thick,+white+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soft, thick, white fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tattered+blanket/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tattered blanket\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+cotton+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of cotton sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+soft,+sequinned+slippers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of soft, sequinned slippers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+jester's+cap/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a jester's cap\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+goat+skin+jacket/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a goat skin jacket\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+green+bottle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small green bottle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+vine+sprig/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small vine sprig\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+long+hollow+stem/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a long hollow stem\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+pungent+red+powder/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some pungent red powder\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+dark-green+moss/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some dark-green moss\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+slender+flowering+plant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a slender flowering plant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+red+petals/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some red petals\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+grey+petals/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some grey petals\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/several+splayed+leaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\several splayed leaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bundle+of+fresh-scented+leaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bundle of fresh-scented leaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tall+yellow+iris/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tall yellow iris\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+handful+of+fragile+flowers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a handful of fragile flowers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bag+of+cinnamon/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bag of cinnamon\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+long,+scented,+brown+bean/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a long, scented, brown bean\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+pipe-weed/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some pipe-weed\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+sweet-smelling+dried+mauve+petals/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some sweet-smelling dried mauve petals\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pastry/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pastry\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+seed-cake/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a seed-cake\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+biscuit/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large biscuit\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+map+of+the+freehold+of+the+Shire/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a map of the freehold of the Shire\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+orkish+war-drums/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of orkish war-drums\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+crude-looking+bag/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a crude-looking bag\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+fur+with+silvery+streaks/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black fur with silvery streaks\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/Leonard's+notes+on+surviving+in+the+wild/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\Leonard's notes on surviving in the wild\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver+goblet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver goblet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+riding+whip/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a riding whip\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+push-toy/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden push-toy\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+top/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden top\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+coach+ticket/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a coach ticket\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+alchemical+supplies/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some alchemical supplies\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+set+of+reed+pipes/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a set of reed pipes\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fragile+parchment/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fragile parchment\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+ornate+parchment/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an ornate parchment\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+map+of+Tharbad/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a map of Tharbad\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shiny+flute/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shiny flute\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+Dwarven+beard-comb/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a Dwarven beard-comb\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+chunk+of+metal/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a chunk of metal\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+wolf+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black wolf fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+necklace+of+bones/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a necklace of bones\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+old+treasure+map/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an old treasure map\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soft+cloth+cap/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soft cloth cap\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silk+cap/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silk cap\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+hood/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black hood\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+hood/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain hood\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+finely+woven+hood/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a finely woven hood\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+mithril+circlet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a mithril circlet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+chain+mail+coif/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine chain mail coif\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+chain+mail+coif/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a chain mail coif\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+white+chain+mail+coif/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a white chain mail coif\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+chain+mail+coif/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy chain mail coif\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+map+of+Ingrove/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a map of Ingrove\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pointy+hat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pointy hat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+brown+hat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a brown hat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+feathered+hat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a feathered hat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+raccoon+fur+hat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a raccoon fur hat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+straw+hat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a straw hat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+grey+wool+hat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a grey wool hat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+hat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain hat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+blood-encrusted+helm/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a blood-encrusted helm\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+great+helm/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a great helm\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pot+helm/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pot helm\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+full+metal+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a full metal helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+leather+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a leather helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+metal+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a metal helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+reinforced+leather+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a reinforced leather helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+leather+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy leather helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+S-rune+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an S-rune helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+leather+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine leather helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+reinforced+leather+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine reinforced leather helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+horned+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a horned helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+spiked+metal+helmet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a spiked metal helmet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+saddlebag/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a saddlebag\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+belt+pouch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a belt pouch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+leather+baldric/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a leather baldric\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+glass+jug/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large glass jug\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+flagon/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a flagon\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+crushed+stem/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a crushed stem\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sticky+mass+of+stems,+leaves+and+sap/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sticky mass of stems, leaves and sap\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+toadstool/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a toadstool\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+sticky+gooseberry+preserve/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some sticky gooseberry preserve\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fortune-cookie/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fortune-cookie\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+hollyberries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some hollyberries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+few+inkberries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a few inkberries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+snakeskin+belt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a snakeskin belt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wolfskin+wristband/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wolfskin wristband\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+guild-guard+uniform/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a guild-guard uniform\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+embroidered+surcoat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an embroidered surcoat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+warg+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a warg fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+majestic,+golden+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a majestic, golden fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sacred+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sacred cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dark-blue+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dark-blue cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+buttoned+cassock/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a buttoned cassock\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+cape/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black cape\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+warm+blanket/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a warm blanket\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dirty+apron/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dirty apron\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+Zaugurz+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a Zaugurz shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+red-skull+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a red-skull shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+lobstered+steel+gauntlets/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of lobstered steel gauntlets\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+steel-shafted+spear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a steel-shafted spear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+giant+spear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a giant spear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+metal+staff/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black metal staff\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+piece+of+hard+candy/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small piece of hard candy\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+piece+of+chocolate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small piece of chocolate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+heavy+warhammer/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a heavy warhammer\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+piece+of+soft+candy/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small piece of soft candy\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+thin,+hairy+plant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a thin, hairy plant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+clay+pipe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a clay pipe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+hemlock+plant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a hemlock plant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+swamp+iris/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a swamp iris\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+maul/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a maul\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+pumpkin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large pumpkin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+huge+spiked+club/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a huge spiked club\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cruelly-spiked+mace/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cruelly-spiked mace\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+waraxe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black waraxe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+brutal+cleaver/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a brutal cleaver\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+spade/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small spade\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+orkish+shortbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an orkish shortbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+elven+shortbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an elven shortbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+bear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden bear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+weapon+harness/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a weapon harness\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small,+green+stone/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small, green stone\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tiger's+eye/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tiger's eye\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+red+ruby/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a red ruby\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+polished+white+quartzite/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a polished white quartzite\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+lustrous+opal/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a lustrous opal\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+onyx/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an onyx\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver+nugget/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver nugget\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+nugget+of+gold/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a nugget of gold\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+golden+harp/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a golden harp\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+garnet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large garnet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+lustrous+green+emerald/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a lustrous green emerald\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+beautiful+diamond/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a beautiful diamond\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+enamelled+cloakpin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an enamelled cloakpin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bar+of+gold/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bar of gold\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+bracelet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small bracelet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver+bracer/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver bracer\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+huge+silvery+bracer/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a huge silvery bracer\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+jade+bracelet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a jade bracelet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+elven+hunting-spear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an elven hunting-spear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+old+metallic+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an old metallic key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+silver+bracelet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine silver bracelet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+emerald+pendant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an emerald pendant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+golden+necklace/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a golden necklace\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bronze+medallion/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bronze medallion\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver+cloakpin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver cloakpin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sword-shaped+brooch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sword-shaped brooch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+mallorn-leaf+brooch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a mallorn-leaf brooch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+jade+amulet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a jade amulet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bright+red+amulet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bright red amulet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+engagement+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an engagement ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver+wedding+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver wedding ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+long+and+scaly+snakeskin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a long and scaly snakeskin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+jewel-encrusted+goblet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a jewel-encrusted goblet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+golden+cup/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a golden cup\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+slate+map/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a slate map\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+map+of+the+Tower+Hills/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a map of the Tower Hills\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+map+of+Bree/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a map of Bree\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+lute/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a lute\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+iron+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an iron ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silvery-green+leaf/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silvery-green leaf\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cooking+book/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cooking book\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+iron+brooch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an iron brooch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+engraved+warhammer/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an engraved warhammer\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/Leonard's+notes+on+staying+well+fed/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\Leonard's notes on staying well fed\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/Leonard's+notes+on+getting+through+a+scrap/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\Leonard's notes on getting through a scrap\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+map+of+Fornost/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a map of Fornost\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soft+pelt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soft pelt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pelt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pelt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sharp+thorn/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sharp thorn\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+saddlecloth/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a saddlecloth\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+straw+pallet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a straw pallet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+moneybag/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a moneybag\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+jewel-box/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small jewel-box\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+skeleton/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a skeleton\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bright+green+shrub/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bright green shrub\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+simple+chest/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a simple chest\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+box/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden box\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+wooden+box/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large wooden box\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+bottle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small bottle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+beer+mug/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a beer mug\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+exquisite+wine+glass/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an exquisite wine glass\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wine+glass/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wine glass\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+aged+silver+flask/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an aged silver flask\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+bottle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine bottle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dark+bottle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dark bottle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bottle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bottle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+big+bottle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a big bottle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pint/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pint\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+skin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large skin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+oak+barrel/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an oak barrel\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+apple+tart/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an apple tart\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+blackberry+tart/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a blackberry tart\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+lembas+wafer/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a lembas wafer\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+beer+bottle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a beer bottle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+simple+metal+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a simple metal key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+violet+berries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some violet berries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+hooded+brass+lantern/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a hooded brass lantern\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+piece+of+smoked+meat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large piece of smoked meat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+studded+leather+belt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a studded leather belt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ceramic+cup/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ceramic cup\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+barrel/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large barrel\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+roast+pork/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some roast pork\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bulb+of+garlic/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bulb of garlic\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+oaken+rod/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an oaken rod\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+onion/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an onion\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+mighty+dwarven+axe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a mighty dwarven axe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+jagged-edged+scimitar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a jagged-edged scimitar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+nasty+orkish+fang/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a nasty orkish fang\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sickly+green+mushroom/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sickly green mushroom\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+double+edged+eket/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a double edged eket\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+roughly+stitched+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a roughly stitched cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+grey+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine grey cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+mushroom/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a mushroom\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bright+red+mushroom/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bright red mushroom\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dented+pail/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dented pail\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+ancient+parchment/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an ancient parchment\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+map+of+Rivendell/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a map of Rivendell\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+white+blouse/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a white blouse\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+blouse/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black blouse\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+foul-smelling+root/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a foul-smelling root\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+lynx+pelt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a lynx pelt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+spoon/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a spoon\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+brown+bottle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a brown bottle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+light+boat+of+reeds/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a light boat of reeds\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+bluish-white+petals/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some bluish-white petals\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+slender+plant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a slender plant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+grey-brown+powder/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some grey-brown powder\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+short+flower,+with+a+purple+bloom/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a short flower, with a purple bloom\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+turnip/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a turnip\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+gold+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a gold ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+pine+nuts/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some pine nuts\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+broken+pickaxe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a broken pickaxe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dark+coloured+flask/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dark coloured flask\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+leather+belt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain leather belt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+box/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small box\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bar+of+iron/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bar of iron\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+rough+staff/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a rough staff\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+whip/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a whip\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+steel-tipped+lance/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a steel-tipped lance\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bale+of+wheat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bale of wheat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+plant,+with+long+leaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small plant, with long leaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+rib-bone+of+a+skeleton/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a rib-bone of a skeleton\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+lance/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a lance\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+twisted+spear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a twisted spear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+steel-tipped+spear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a steel-tipped spear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+short+spear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a short spear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+barrel/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small barrel\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+broad+spear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a broad spear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pitchfork/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pitchfork\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pike/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pike\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+lantern/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a lantern\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+egg/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an egg\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+stout+barrel/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a stout barrel\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sack+of+flour/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sack of flour\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+warhammer/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a warhammer\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+steel-shafted+mattock/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a steel-shafted mattock\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+warhammer/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large warhammer\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+quarterstaff/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a quarterstaff\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pick/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pick\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+morningstar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a morningstar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+heavy+morningstar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a heavy morningstar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+chunk+of+copper+ore/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a chunk of copper ore\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+chunk+of+ore/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a chunk of ore\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shovel/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shovel\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+war+mattock/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a war mattock\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+flail/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a flail\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+spiked+war+club/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a spiked war club\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+leather+wallet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a leather wallet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+handful+of+blackcurrant+berries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a handful of blackcurrant berries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+very+heavy+branch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a very heavy branch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+very+large+wooden+club/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a very large wooden club\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+very+large+knotted+tree-branch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a very large knotted tree-branch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+hatchet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a hatchet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+sack/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large sack\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+musty+loaf+of+bread/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a musty loaf of bread\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+handaxe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a handaxe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+halberd/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a halberd\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bunch+of+chanterelles/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bunch of chanterelles\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bright+white+flower/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bright white flower\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+handful+of+blueberries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a handful of blueberries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+hammer/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a hammer\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+tongs/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of tongs\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+butcher's+cleaver/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a butcher's cleaver\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wicked+Durbuk-hai+axe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wicked Durbuk-hai axe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+two-handed+axe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a two-handed axe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+patch+of+phosphorescent+moss/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a patch of phosphorescent moss\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+quill+pen/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a quill pen\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+piece+of+paper/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a piece of paper\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+double-headed+axe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a double-headed axe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sharp+talon/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sharp talon\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+two-handed+sword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a two-handed sword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+many-branched+stem+of+bright+yellow+flowers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a many-branched stem of bright yellow flowers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+tough+green+weed/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a tough green weed\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+Grey+Havens+map/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a Grey Havens map\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sickle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sickle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+serrated+scimitar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a serrated scimitar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+scimitar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a scimitar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+broad+scimitar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a broad scimitar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sabre/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sabre\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fishing+net/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fishing net\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+broad-bladed+knife/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a broad-bladed knife\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+gnarled+wooden+club/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a gnarled wooden club\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+crumpled,+mud-smeared+piece+of+paper/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a crumpled, mud-smeared piece of paper\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+steel+claymore/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a steel claymore\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+broadsword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a broadsword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+white+petals/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some white petals\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+water+lily/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a water lily\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fishing+rod/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fishing rod\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+orange-red+flowers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some orange-red flowers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+battle+axe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a battle axe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+brown+thorn/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a brown thorn\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cluster+of+bright+orange+flowers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cluster of bright orange flowers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+hunting+knife/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a hunting knife\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+butcher+knife/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a butcher knife\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+horn/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a horn\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+canoe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a canoe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shiny+dagger/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shiny dagger\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cluster+of+purplish-pink+flowers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cluster of purplish-pink flowers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+iron-shod+mace/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an iron-shod mace\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+horn+shortbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black horn shortbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+yew+longbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a yew longbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+longbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a longbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cluster+of+yellow+flowers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cluster of yellow flowers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+scented+crushed+leaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some scented crushed leaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+light+crossbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a light crossbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sling/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sling\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+round+stone/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a round stone\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+slingstone/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a slingstone\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+metal-cased+bolt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a metal-cased bolt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+many-branched+shrub/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a many-branched shrub\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+crimson+raspberries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some crimson raspberries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bolt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bolt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bolt-case/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bolt-case\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+weapon+sheath/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a weapon sheath\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+and+silver+surcoat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black and silver surcoat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+white+wolf+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a white wolf fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+grey+wolf+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a grey wolf fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cave-bear+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cave-bear fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+leather+satchel/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a leather satchel\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+torch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a torch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+brown+bear+fur/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a brown bear fur\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+heavy+wool+coat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a heavy wool coat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+woollen+traveller's+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a woollen traveller's cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+smoked+piece+of+meat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a smoked piece of meat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ragged,+blackened+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ragged, blackened cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+Isengard+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an Isengard shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+wall+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden wall shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+target+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden target shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+wild+strawberries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some wild strawberries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+slender-stemmed+plant,+with+a+brown+head/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a slender-stemmed plant, with a brown head\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+prickly+plant+with+blue+flower+heads/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a prickly plant with blue flower heads\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+grey-green+leaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some grey-green leaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+forest+green+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a forest green cloak\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sun-emblazoned+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sun-emblazoned shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+spiked+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a spiked shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+metal+target+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small metal target shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+slim+silvery+wristband/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a slim silvery wristband\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/the+broad+Elven+blade/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\the broad Elven blade\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shield+of+Cardolan/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shield of Cardolan\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shield+of+Arthedain/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shield of Arthedain\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sack+of+pepper/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sack of pepper\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+round+shield+of+the+Mark/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a round shield of the Mark\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+metal+wall+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a metal wall shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+wooden+wall+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large wooden wall shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+wooden+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large wooden shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+metal+wall+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large metal wall shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+nimble+blade/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a nimble blade\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bejewelled+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bejewelled shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+metal+full+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large metal full shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+gilded+round+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a gilded round shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+metal+buckler/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a metal buckler\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+metal+vambraces/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of metal vambraces\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+crimson+pair+of+metal+vambraces/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a crimson pair of metal vambraces\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+white+chain+mail+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of white chain mail sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+scale+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of scale sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+soft+leather+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of soft leather sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+rigid+leather+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of rigid leather sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+chain+mail+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of chain mail sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+soft+leather+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of soft leather gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+snowshoes/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of snowshoes\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+rigid+leather+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of rigid leather boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+hard+leather+trousers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of hard leather trousers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+long,+wicked+knife/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a long, wicked knife\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wolf+fur+vest/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wolf fur vest\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+and+red+robe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black and red robe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+black+arm+wrappings/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of black arm wrappings\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+plate+vambraces/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of plate vambraces\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+metal+vambraces/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of metal vambraces\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+corberyl/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a corberyl\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+evergreen+shrub/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an evergreen shrub\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+metal+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a metal shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+chain+mail+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of chain mail sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+soft+leather+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of soft leather sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+cherries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some cherries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+rigid+leather+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of rigid leather sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+chain+mail+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of chain mail sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+pair+of+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain pair of sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+pair+of+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black pair of sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+rigid+leather+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of rigid leather gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+chain+mail+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of chain mail gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cluster+of+soft+pink+flowers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cluster of soft pink flowers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+rigid+leather+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of rigid leather gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+chain+mail+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of chain mail gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+rigid+leather+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of rigid leather gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+purple+flower+with+a+fluffy+red+centre/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a purple flower with a fluffy red centre\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+violet+orchid/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a violet orchid\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bastard+sword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bastard sword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sticky+honeycomb/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sticky honeycomb\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+metal+gauntlets/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of metal gauntlets\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+shoes/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of shoes\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+heavy+shoes/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of heavy shoes\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+apple/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an apple\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+potato/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a potato\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+sandals/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of sandals\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+soft+leather+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of soft leather boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+metal+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of metal boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+metal+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of metal boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+high+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of high boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+soft+leather+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of soft leather boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+metal+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of metal boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+wheat+cereals/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some wheat cereals\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+pair+of+padded+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black pair of padded boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+hard+leather+trousers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of hard leather trousers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+plain+trousers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of plain trousers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+blue+trousers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of blue trousers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+number+of+blackberries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a number of blackberries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+soft+leather+trousers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of soft leather trousers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soft+leather+riding+skirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soft leather riding skirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fletched+arrow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fletched arrow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+flowing+skirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain flowing skirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+guardsman's+pants/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of guardsman's pants\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+cotton+pants/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of cotton pants\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sealed+clay+jar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sealed clay jar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+raft/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a raft\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+full+wooden+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a full wooden shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+lion+pelt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine lion pelt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cutlass/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cutlass\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+metal+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small metal shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+rigid+leather+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of rigid leather boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+metal+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large metal shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+hard+leather+trousers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of hard leather trousers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+rigid+metal+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a rigid metal key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+rigid+leather+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of rigid leather sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+wooden+target+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small wooden target shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+wooden+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small wooden shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+rigid+leather+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of rigid leather boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+soft+leather+trousers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of soft leather trousers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+soft+leather+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of soft leather gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+soft+leather+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of soft leather boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+soft+leather+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of soft leather gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+soft+leather+trousers/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of soft leather trousers\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+wooden+full+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large wooden full shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dirk/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dirk\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+rapier/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a rapier\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+longsword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a longsword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shortsword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shortsword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dagger/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dagger\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+longspear/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a longspear\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+poleaxe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a poleaxe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+falchion/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a falchion\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+mace/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a mace\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cudgel/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cudgel\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+stiletto/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a stiletto\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+club/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden club\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+backsword/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a backsword\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+full+metal+shield/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a full metal shield\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+chain+mail+leggings/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of chain mail leggings\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+white+chain+mail+leggings/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of white chain mail leggings\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shining+pair+of+chain+mail+leggings/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shining pair of chain mail leggings\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+scale+leggings/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of scale leggings\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+chain+mail+leggings/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of chain mail leggings\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+chain+mail+leggings/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of chain mail leggings\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+pair+of+greaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy pair of greaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+plate+greaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of plate greaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+metal+greaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of metal greaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+metal+greaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of metal greaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+magic+mushroom/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a magic mushroom\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+pair+of+pants/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain pair of pants\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+pair+of+pants/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black pair of pants\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+handful+of+narrow+leaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a handful of narrow leaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+woody,+stemmed+plant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a woody, stemmed plant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cabbage/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cabbage\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+basinet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a basinet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+vest/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain vest\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+immaculate+white+tunic/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an immaculate white tunic\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+stained+dark+shirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a stained dark shirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+juicy+plum/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a juicy plum\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+scale+shirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a scale shirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+guardsman's+shirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a guardsman's shirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+white+robe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a white robe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+Daedeltiri+robe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a Daedeltiri robe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+white-star+forget-me-nots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some white-star forget-me-nots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+chain+mail+hauberk/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine chain mail hauberk\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soft+plain+dress/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soft plain dress\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soft+blue+dress/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soft blue dress\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+hardened+leather+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a hardened leather breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+vial+of+preserved+blood/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a vial of preserved blood\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+embroidered+blouse/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an embroidered blouse\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+studded+leather+collar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a studded leather collar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+leather+saddle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a leather saddle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shortbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shortbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bowl+of+colourful+mushroom+soup/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bowl of colourful mushroom soup\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+arrow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an arrow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+red+rose+with+leaves+and+thorny+stem/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a red rose with leaves and thorny stem\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+white+rose+with+leaves+and+thorny+stem/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a white rose with leaves and thorny stem\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+carrot/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a carrot\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/several+needlelike+leaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\several needlelike leaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+thick+wool+vest/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a thick wool vest\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+tunic/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine tunic\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+woody,+many-stemmed+plant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a woody, many-stemmed plant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soft+woollen+shirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soft woollen shirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+russet+shirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a russet shirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+juicy+grapes/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some juicy grapes\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+chequered+shirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a chequered shirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+shirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain shirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+shirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black shirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pair+of+smooth,+black+boots/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pair of smooth, black boots\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shining+chain+mail+shirt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shining chain mail shirt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+enruned+robe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an enruned robe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+chunk+of+salt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a chunk of salt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cup/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cup\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+robe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black robe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+white+chain+mail+jerkin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a white chain mail jerkin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy,+soft+leather+jerkin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy, soft leather jerkin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+soft+leather+jerkin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a soft leather jerkin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine,+soft+leather+jerkin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine, soft leather jerkin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+chain+mail+hauberk/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy chain mail hauberk\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pan/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pan\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+chain+mail+hauberk/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a chain mail hauberk\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+old+plain+dress/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an old plain dress\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+bowl+of+salad/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a bowl of salad\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+loaf+of+bread/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a loaf of bread\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+piece+of+cheese/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a piece of cheese\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+mince-pie/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a mince-pie\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy,+rigid+leather+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy, rigid leather breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+metal+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy metal breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+rigid+leather+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a rigid leather breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+metal+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a metal breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+stinging+nettle/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a stinging nettle\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+metal+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine metal breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+blood-encrusted+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a blood-encrusted breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+scarf/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain scarf\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+spiked+collar/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a spiked collar\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+plain+dress/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine plain dress\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+large+piece+of+raw+beef/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a large piece of raw beef\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine,+rigid+leather+breastplate/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine, rigid leather breastplate\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+plain+blouse/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a plain blouse\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+archer's+wrist+guard/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an archer's wrist guard\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+lambent+amulet/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a lambent amulet\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+woodsman's+axe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a woodsman's axe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+rough+wooden+horn/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a rough wooden horn\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/some+long,+slender+green+leaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\some long, slender green leaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+pouch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small pouch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+gleaming+belt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a gleaming belt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pale+blue+stone/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pale blue stone\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+laced+quiver/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a laced quiver\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+banded+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a banded ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+long,+sticky+bit+of+flesh/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a long, sticky bit of flesh\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/several+cloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\several cloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+cluster+of+hard,+round,+black+berries/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a cluster of hard, round, black berries\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ticket+for+a+cat/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ticket for a cat\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ticket+for+a+trained+horse/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ticket for a trained horse\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ticket+for+a+horse+of+the+Rohirrim/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ticket for a horse of the Rohirrim\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+man-like+root/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a man-like root\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+star+sapphire/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a star sapphire\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+die/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a die\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ruby+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ruby ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+reinforced+oak+staff/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a reinforced oak staff\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+copper+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a copper ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+black+runed+dagger/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a black runed dagger\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ceremonial+dagger/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ceremonial dagger\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+unfinished+band+of+gold/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an unfinished band of gold\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+handful+of+clover/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a handful of clover\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+blue+crystal/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a blue crystal\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+amethyst/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an amethyst\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+metal+flask/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small metal flask\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+flask+of+miruvor/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a flask of miruvor\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+deep+ebony+scroll/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a deep ebony scroll\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+tin+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small tin ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+war+arrow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a war arrow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+wooden+pipe/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a wooden pipe\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+stout+oaken+stick/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a stout oaken stick\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pinch+of+pale-green,+crushed+leaves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pinch of pale-green, crushed leaves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+ring+of+silver/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a ring of silver\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver-tipped+arrow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver-tipped arrow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+silver-leaf+brooch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a silver-leaf brooch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+softly+glowing+green+cup/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a softly glowing green cup\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+elven+rope/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine elven rope\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+casserole/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a casserole\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sturdy+rope/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sturdy rope\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+embellished+longbow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an embellished longbow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/an+ash+arrow/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\an ash arrow\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+broad+silver+belt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a broad silver belt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+carved+oak+staff/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a carved oak staff\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+pale+orb/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a pale orb\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+marcasite+pendant/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small marcasite pendant\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+sable+pouch/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a sable pouch\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+stone/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a stone\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+water+skin/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a water skin\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+herbal+kit/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a herbal kit\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+golden+belt/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a golden belt\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+quiver/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a quiver\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+leather+backpack/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a leather backpack\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+golden+ruby+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a golden ruby ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+golden+quartzite+ring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a golden quartzite ring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+strange+set+of+lock+picks/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a strange set of lock picks\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+Tharbad+gate+key/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a Tharbad gate key\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+keyring/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a keyring\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+small+daisy+chain/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a small daisy chain\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+necklace/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a necklace\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+dark+stone/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a dark stone\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+faintly+glowing+stone/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a faintly glowing stone\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+fine+pair+of+chain+mail+gloves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a fine pair of chain mail gloves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+shining+pair+of+chain+mail+sleeves/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a shining pair of chain mail sleeves\index.htm
+Content Type: text/html
+
+Uri: https://krydos.com/mume/item/a+russet+cloak/
+File Name: c:\Temp\WebCopy\krydos.com\mume\item\a russet cloak\index.htm
+Content Type: text/html
+

@@ -1,0 +1,149 @@
+
+<style>
+.tableheader {
+  border-bottom: thin solid black
+}
+.sortlink {
+  cursor:pointer;
+  color:blue;
+  text-decoration:underline;
+}
+</style>
+
+<style>
+.dropbtn {
+  background-color: white;
+  color: black;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  min-width: 95px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 95px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #dddddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #dddddd;}
+</style>
+
+<div class="dropdown">
+  <a href="..\..\index.htm">
+  <button class="dropbtn">home</button>
+  </a>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">equipment</button>
+  <div class="dropdown-content">
+    <a href="index.htm">head</a>
+    <a href="..\neck\index.htm">neck</a>
+    <a href="..\body\index.htm">body</a>
+    <a href="..\back\index.htm">back</a>
+    <a href="..\arms\index.htm">arms</a>
+    <a href="..\hands\index.htm">hands</a>
+    <a href="..\legs\index.htm">legs</a>
+    <a href="..\feet\index.htm">feet</a>
+    <a href="..\belt\index.htm">belt</a>
+  </div>
+</div>
+<div class="dropdown">
+  <button class="dropbtn">weapons</button>
+  <div class="dropdown-content">
+    <a href="..\smite\index.htm">smite</a>
+    <a href="..\slash\index.htm">slash</a>
+    <a href="..\cleave\index.htm">cleave</a>
+    <a href="..\crush\index.htm">crush</a>
+    <a href="..\pierce\index.htm">pierce</a>
+    <a href="..\stab\index.htm">stab</a>
+    <a href="..\charge\index.htm">charge</a>
+    <a href="..\whip\index.htm">whip</a>
+  </div>
+</div>
+<div class="dropdown">
+  <a href="..\..\contact\index.htm">
+  <button class="dropbtn">contact</button>
+  </a>
+</div>
+
+<br>HEAD EQUIPMENT:
+<br><br>
+<table id='eqtable'><tr>
+<td class='tableheader'><span class='sortlink' id='a0' onclick='sortTable(0,1,0)'>object</span></td>
+<td class='tableheader'><span class='sortlink' id='a1' onclick='sortTable(1,1,1)'>weight</span></td>
+<td class='tableheader'><span class='sortlink' id='a2' onclick='sortTable(2,0,1)'>ob</span></td>
+<td class='tableheader'><span class='sortlink' id='a3' onclick='sortTable(3,0,1)'>db</span></td>
+<td class='tableheader'><span class='sortlink' id='a4' onclick='sortTable(4,0,1)'>armour</span></td>
+<td class='tableheader'><span class='sortlink' id='a5' onclick='sortTable(5,0,1)'>absorb</span></td>
+<td class='tableheader'><span class='sortlink' id='a6' onclick='sortTable(6,0,0)'>info</span></td></tr>
+
+<tr><td><a href="..\..\item\the Dragonhelm\index.htm">the Dragonhelm</a></td><td>8.81</td><td></td><td></td><td>100%</td><td>100</td><td>Magic, Bless, Eff vs fire/spell</td></tr><tr><td><a href="..\..\item\a silver morion\index.htm">a silver morion</a></td><td>5.50</td><td></td><td></td><td>92%</td><td>15</td><td>Magic, Bless (max 4 in game)</td></tr><tr><td><a href="..\..\item\an ancient, jewelled helmet\index.htm">an ancient, jewelled helmet</a></td><td>5.50</td><td></td><td></td><td>92%</td><td>14</td><td>Magic, Bless, Anti-evil, Anti-neutral, Focus</td></tr><tr><td><a href="..\..\item\a winged metal helmet\index.htm">a winged metal helmet</a></td><td>6.63</td><td>-1</td><td></td><td>90%</td><td>13</td><td></td></tr><tr><td><a href="..\..\item\a horse-crested helm\index.htm">a horse-crested helm</a></td><td>8.38</td><td>-2</td><td></td><td>95%</td><td>12</td><td></td></tr><tr><td><a href="..\..\item\a large visored helmet\index.htm">a large visored helmet</a></td><td>7.69</td><td></td><td></td><td>95%</td><td>12</td><td>Magic, Eff vs fire, Dwarves can use to bless/+2 str dwarves in gr</td></tr><tr><td><a href="..\..\item\a great helm\index.htm">a great helm</a></td><td>6.63</td><td>-1</td><td></td><td>90%</td><td>12</td><td></td></tr><tr><td>crown of bones</td><td>0.31</td><td></td><td></td><td>90%</td><td>12</td><td>Magic, Anti-good, Anti-neutral, Dark nature (free rent for orcs)</td></tr><tr><td><a href="..\..\item\a spiked metal helmet\index.htm">a spiked metal helmet</a></td><td>7.25</td><td></td><td>-1</td><td>85%</td><td>12</td><td></td></tr><tr><td><a href="..\..\item\a full metal helmet\index.htm">a full metal helmet</a></td><td>6.63</td><td>-2</td><td></td><td>85%</td><td>12</td><td></td></tr><tr><td><a href="..\..\item\a white chain mail coif\index.htm">a white chain mail coif</a></td><td>5.75</td><td></td><td></td><td>65%</td><td>12</td><td></td></tr><tr><td>horse-tail helm</td><td>3.94</td><td>-1</td><td></td><td>85%</td><td>11</td><td></td></tr><tr><td><a href="..\..\item\an ancient metal helmet\index.htm">an ancient metal helmet</a></td><td>4.44</td><td></td><td></td><td>85%</td><td>11</td><td>Magic</td></tr><tr><td><a href="..\..\item\a metal helmet\index.htm">a metal helmet</a></td><td>6.63</td><td>-2</td><td>-1</td><td>80%</td><td>11</td><td></td></tr><tr><td><a href="..\..\item\a blood-encrusted helm\index.htm">a blood-encrusted helm</a></td><td>7.69</td><td></td><td></td><td>75%</td><td>10</td><td></td></tr><tr><td><a href="..\..\item\a fine chain mail coif\index.htm">a fine chain mail coif</a></td><td>3.50</td><td></td><td></td><td>65%</td><td>10</td><td></td></tr><tr><td><a href="..\..\item\a strange black helmet\index.htm">a strange black helmet</a></td><td>5.00</td><td></td><td></td><td>100%</td><td>9</td><td>Eff vs darkness, Ineff vs fire/light, Truesight</td></tr><tr><td><a href="..\..\item\an S-rune helmet\index.htm">an S-rune helmet</a></td><td>5.19</td><td></td><td></td><td>78%</td><td>9</td><td></td></tr><tr><td><a href="..\..\item\a sturdy chain mail coif\index.htm">a sturdy chain mail coif</a></td><td>3.50</td><td></td><td></td><td>60%</td><td>9</td><td></td></tr><tr><td><a href="..\..\item\a basinet\index.htm">a basinet</a></td><td>4.94</td><td>-1</td><td></td><td>75%</td><td>8</td><td></td></tr><tr><td><a href="..\..\item\a horned helmet\index.htm">a horned helmet</a></td><td>4.88</td><td>+1</td><td>-1</td><td>60%</td><td>8</td><td></td></tr><tr><td><a href="..\..\item\a chain mail coif\index.htm">a chain mail coif</a></td><td>3.50</td><td>-1</td><td></td><td>55%</td><td>8</td><td></td></tr><tr><td><a href="..\..\item\a pot helm\index.htm">a pot helm</a></td><td>4.44</td><td></td><td></td><td>55%</td><td>7</td><td></td></tr><tr><td><a href="..\..\item\a fine reinforced leather helmet\index.htm">a fine reinforced leather helmet</a></td><td>2.88</td><td></td><td></td><td>80%</td><td>6</td><td></td></tr><tr><td>silver circlet</td><td>1.50</td><td></td><td></td><td>45%</td><td>6</td><td></td></tr><tr><td><a href="..\..\item\a silvery crown\index.htm">a silvery crown</a></td><td>0.25</td><td></td><td></td><td>100%</td><td>5</td><td>Magic, Bless, Anti-evil, Nosummon</td></tr><tr><td><a href="..\..\item\a sturdy reinforced leather helmet\index.htm">a sturdy reinforced leather helmet</a></td><td>2.88</td><td></td><td></td><td>75%</td><td>5</td><td></td></tr><tr><td><a href="..\..\item\a reinforced leather helmet\index.htm">a reinforced leather helmet</a></td><td>2.88</td><td></td><td></td><td>70%</td><td>4</td><td></td></tr><tr><td><a href="..\..\item\a fine leather helmet\index.htm">a fine leather helmet</a></td><td>2.19</td><td></td><td></td><td>50%</td><td>4</td><td></td></tr><tr><td><a href="..\..\item\a sturdy leather helmet\index.htm">a sturdy leather helmet</a></td><td>2.19</td><td></td><td></td><td>45%</td><td>3</td><td></td></tr><tr><td><a href="..\..\item\a leather helmet\index.htm">a leather helmet</a></td><td>2.19</td><td></td><td></td><td>40%</td><td>2</td><td></td></tr><tr><td><a href="..\..\item\a finely woven hood\index.htm">a finely woven hood</a></td><td>0.13</td><td></td><td>+2</td><td></td><td></td><td>Magic, Anti-evil</td></tr><tr><td><a href="..\..\item\a soft cloth cap\index.htm">a soft cloth cap</a></td><td>0.31</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a black hood\index.htm">a black hood</a></td><td>0.44</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a feathered hat\index.htm">a feathered hat</a></td><td>0.44</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a plain hood\index.htm">a plain hood</a></td><td>0.44</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a brown hat\index.htm">a brown hat</a></td><td>0.56</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a plain hat\index.htm">a plain hat</a></td><td>0.56</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a silk cap\index.htm">a silk cap</a></td><td>0.56</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a pointy hat\index.htm">a pointy hat</a></td><td>0.69</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a straw hat\index.htm">a straw hat</a></td><td>1.13</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a raccoon fur hat\index.htm">a raccoon fur hat</a></td><td>2.00</td><td></td><td>+1</td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a mithril circlet\index.htm">a mithril circlet</a></td><td>0.25</td><td></td><td></td><td></td><td></td><td>Magic, Anti-evil, Anti-neutral, +Spell attack</td></tr><tr><td><a href="..\..\item\a twisted crown\index.htm">a twisted crown</a></td><td>0.31</td><td></td><td></td><td></td><td></td><td>Magic, Anti-good, Anti-neutral, +Spell attack</td></tr><tr><td><a href="..\..\item\a grey wool hat\index.htm">a grey wool hat</a></td><td>0.50</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a silver crown\index.htm">a silver crown</a></td><td>0.50</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="..\..\item\a circlet of golden flowers\index.htm">a circlet of golden flowers</a></td><td>0.69</td><td></td><td></td><td></td><td></td><td></td></tr>
+</table>
+
+<script>
+function sortTable(column, dir, numerical) {
+  var table, rows, switching, i, x, y, left, right, shouldSwitch;
+  table = document.getElementById("eqtable");
+  switching = true;
+  if (dir == 1) {
+    document.getElementById("a"+column).setAttribute("onclick", "sortTable("+column+",0,"+numerical+")");
+  } else {
+    document.getElementById("a"+column).setAttribute("onclick", "sortTable("+column+",1,"+numerical+")");
+  }
+  while (switching) {
+    switching = false;
+    rows = table.getElementsByTagName("TR");
+    for (i = 1; i < (rows.length - 1); i++) {
+      shouldSwitch = false;
+      x = rows[i].getElementsByTagName("TD")[column];
+      y = rows[i + 1].getElementsByTagName("TD")[column];
+      if (numerical == 1) {
+        left = parseFloat(x.innerHTML.toLowerCase());
+        if (x.innerHTML == "") left = "0";
+        right = parseFloat(y.innerHTML.toLowerCase());
+        if (y.innerHTML == "") right = "0";
+      } else {
+        left = x.innerHTML.toLowerCase();
+        right = y.innerHTML.toLowerCase();
+      }
+      if (dir == 1) {
+        if (left > right) {
+          shouldSwitch= true;
+          break;
+        }
+      } else {
+        if (left < right) {
+          shouldSwitch= true;
+          break;
+        }
+      }
+    }
+    if (shouldSwitch) {
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+    }
+  }
+}
+</script>
+
+
